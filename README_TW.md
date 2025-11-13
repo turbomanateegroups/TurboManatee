@@ -14,7 +14,7 @@
 | **標準協議** | BEP20 / ERC20 相容 |
 | **總供應量** | 100,000,000 TUMA（固定總量） |
 | **小數位數** | 18 |
-| **合約地址** | [`0x52d105dF96887f1B69EF93b55A53A12597485D79`](https://bscscan.com/token/0x52d105dF96887f1B69EF93b55A53A12597485D79) |
+| **合約地址** | [`0xed89776141b1a62adfbf3c243b75600eb2c4b430`](https://bscscan.com/token/0xed89776141b1a62adfbf3c243b75600eb2c4b430) |
 | **編譯器版本** | Solidity 0.8.24（啟用最佳化，200 次運行） |
 | **授權條款** | MIT License |
 | **鏈別** | BNB Smart Chain（主網 ID 56） |
@@ -58,7 +58,7 @@
 
 ## 🧾 合規與透明化聲明
 
-- 智能合約已於 **[BscScan 官方驗證頁面](https://bscscan.com/token/0x52d105dF96887f1B69EF93b55A53A12597485D79)** 公開驗證。  
+- 智能合約已於 **[BscScan 官方驗證頁面](https://bscscan.com/token/0xed89776141b1a62adfbf3c243b75600eb2c4b430)** 公開驗證。  
 - 原始碼遵循 **MIT 開源授權**，所有內容完全透明。  
 - 本資料夾包含官方簽署之 **合約所有權證明文件 (Proof of Ownership)**。  
 - 未來版本（TurboManatee V3）將移除可控功能（黑名單、暫停），以提升完全去中心化程度。  
