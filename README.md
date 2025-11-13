@@ -13,7 +13,7 @@ This repository contains the **verified smart contract source code** and officia
 | **Type** | BEP20 / ERC20 Compatible |
 | **Total Supply** | 100,000,000 TUMA (fixed) |
 | **Decimals** | 18 |
-| **Contract Address** | [`0x52d105dF96887f1B69EF93b55A53A12597485D79`](https://bscscan.com/token/0x52d105dF96887f1B69EF93b55A53A12597485D79) |
+| **Contract Address** | [`0xed89776141b1a62adfbf3c243b75600eb2c4b430`](https://bscscan.com/token/0xed89776141b1a62adfbf3c243b75600eb2c4b430) |
 | **Compiler** | Solidity 0.8.24 (Optimizer enabled, 200 runs) |
 | **License** | MIT |
 | **Network** | BNB Smart Chain (Mainnet - Chain ID 56) |
@@ -57,7 +57,7 @@ This repository contains the **verified smart contract source code** and officia
 
 ## 🧾 Compliance & Transparency
 
-- Contract verified publicly on **[BscScan](https://bscscan.com/token/0x52d105dF96887f1B69EF93b55A53A12597485D79)**.  
+- Contract verified publicly on **[BscScan](https://bscscan.com/token/0xed89776141b1a62adfbf3c243b75600eb2c4b430)**.  
 - Source code follows **MIT open-source license** for transparency.  
 - Official Proof of Ownership file is included (`Proof_of_Ownership_TurboManatee.pdf`).  
 - Future versions (TurboManateeV3) will permanently disable the blacklist and pausable functions for maximum decentralization.  
